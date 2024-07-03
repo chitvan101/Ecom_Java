@@ -1,37 +1,37 @@
-D:\New folder (2)\shopping-cart\src\com\shashi\service\impl\OrderServiceImpl.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\OrderServlet.java
-D:\New folder (2)\shopping-cart\src\com\shashi\utility\IDUtil.java
-D:\New folder (2)\shopping-cart\src\com\shashi\beans\UserBean.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\impl\CartServiceImpl.java
-D:\New folder (2)\shopping-cart\src\com\shashi\utility\DBUtil.java
-D:\New folder (2)\shopping-cart\src\com\shashi\constants\IUserConstants.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\OrderService.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\LogoutSrv.java
-D:\New folder (2)\shopping-cart\src\com\shashi\beans\OrderDetails.java
-D:\New folder (2)\shopping-cart\src\com\shashi\beans\TransactionBean.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\TransService.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\UserService.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\impl\UserServiceImpl.java
-D:\New folder (2)\shopping-cart\src\com\shashi\utility\MailMessage.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\AddProductSrv.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\FansMessage.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\ShipmentServlet.java
-D:\New folder (2)\shopping-cart\src\com\shashi\beans\ProductBean.java
-D:\New folder (2)\shopping-cart\src\com\shashi\utility\JavaMailUtil.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\UpdateProductSrv.java
-D:\New folder (2)\shopping-cart\src\com\shashi\beans\OrderBean.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\AddtoCart.java
-D:\New folder (2)\shopping-cart\src\com\shashi\beans\DemandBean.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\impl\DemandServiceImpl.java
-D:\New folder (2)\shopping-cart\src\com\shashi\utility\TestMail.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\RemoveProductSrv.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\ProductService.java
-D:\New folder (2)\shopping-cart\src\com\shashi\beans\CartBean.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\impl\TransServiceImpl.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\RegisterSrv.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\DemandService.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\ShowImage.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\LoginSrv.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\CartService.java
-D:\New folder (2)\shopping-cart\src\com\shashi\service\impl\ProductServiceImpl.java
-D:\New folder (2)\shopping-cart\src\com\shashi\srv\UpdateToCart.java
+D:\New\shopping-cart\src\com\cj\service\impl\UserServiceImpl.java
+D:\New\shopping-cart\src\com\cj\beans\DemandBean.java
+D:\New\shopping-cart\src\com\cj\service\impl\ProductServiceImpl.java
+D:\New\shopping-cart\src\com\cj\srv\AddProductSrv.java
+D:\New\shopping-cart\src\com\cj\beans\ProductBean.java
+D:\New\shopping-cart\src\com\cj\utility\JavaMailUtil.java
+D:\New\shopping-cart\src\com\cj\srv\UpdateProductSrv.java
+D:\New\shopping-cart\src\com\cj\service\impl\CartServiceImpl.java
+D:\New\shopping-cart\src\com\cj\service\impl\TransServiceImpl.java
+D:\New\shopping-cart\src\com\cj\srv\RemoveProductSrv.java
+D:\New\shopping-cart\src\com\cj\utility\TestMail.java
+D:\New\shopping-cart\src\com\cj\srv\ShipmentServlet.java
+D:\New\shopping-cart\src\com\cj\utility\IDUtil.java
+D:\New\shopping-cart\src\com\cj\service\OrderService.java
+D:\New\shopping-cart\src\com\cj\srv\ShowImage.java
+D:\New\shopping-cart\src\com\cj\beans\OrderBean.java
+D:\New\shopping-cart\src\com\cj\service\impl\DemandServiceImpl.java
+D:\New\shopping-cart\src\com\cj\service\TransService.java
+D:\New\shopping-cart\src\com\cj\beans\OrderDetails.java
+D:\New\shopping-cart\src\com\cj\utility\MailMessage.java
+D:\New\shopping-cart\src\com\cj\beans\CartBean.java
+D:\New\shopping-cart\src\com\cj\srv\OrderServlet.java
+D:\New\shopping-cart\src\com\cj\service\ProductService.java
+D:\New\shopping-cart\src\com\cj\service\DemandService.java
+D:\New\shopping-cart\src\com\cj\srv\UpdateToCart.java
+D:\New\shopping-cart\src\com\cj\beans\UserBean.java
+D:\New\shopping-cart\src\com\cj\utility\DBUtil.java
+D:\New\shopping-cart\src\com\cj\service\UserService.java
+D:\New\shopping-cart\src\com\cj\srv\LoginSrv.java
+D:\New\shopping-cart\src\com\cj\beans\TransactionBean.java
+D:\New\shopping-cart\src\com\cj\srv\LogoutSrv.java
+D:\New\shopping-cart\src\com\cj\srv\RegisterSrv.java
+D:\New\shopping-cart\src\com\cj\srv\FansMessage.java
+D:\New\shopping-cart\src\com\cj\constants\IUserConstants.java
+D:\New\shopping-cart\src\com\cj\srv\AddtoCart.java
+D:\New\shopping-cart\src\com\cj\service\impl\OrderServiceImpl.java
+D:\New\shopping-cart\src\com\cj\service\CartService.java
